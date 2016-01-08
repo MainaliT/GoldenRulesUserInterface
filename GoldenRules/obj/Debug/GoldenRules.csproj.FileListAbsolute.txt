@@ -1,0 +1,9 @@
+F:\Fifth Semester\USER INTERFACE AND DESIGN\GoldenRules\GoldenRules\bin\Debug\GoldenRules.exe.config
+F:\Fifth Semester\USER INTERFACE AND DESIGN\GoldenRules\GoldenRules\bin\Debug\GoldenRules.exe
+F:\Fifth Semester\USER INTERFACE AND DESIGN\GoldenRules\GoldenRules\bin\Debug\GoldenRules.pdb
+F:\Fifth Semester\USER INTERFACE AND DESIGN\GoldenRules\GoldenRules\obj\Debug\GoldenRules.Form1.resources
+F:\Fifth Semester\USER INTERFACE AND DESIGN\GoldenRules\GoldenRules\obj\Debug\GoldenRules.Properties.Resources.resources
+F:\Fifth Semester\USER INTERFACE AND DESIGN\GoldenRules\GoldenRules\obj\Debug\GoldenRules.csproj.GenerateResource.Cache
+F:\Fifth Semester\USER INTERFACE AND DESIGN\GoldenRules\GoldenRules\obj\Debug\GoldenRules.exe
+F:\Fifth Semester\USER INTERFACE AND DESIGN\GoldenRules\GoldenRules\obj\Debug\GoldenRules.pdb
+F:\Fifth Semester\USER INTERFACE AND DESIGN\GoldenRules\GoldenRules\obj\Debug\GoldenRules.csprojResolveAssemblyReference.cache
